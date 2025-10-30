@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -16,7 +16,7 @@
 <body>
     <header>
         <h1>Bagus Arief Ishakyudin</h1>
-        <p>Deskripsi singkat tentang diri Anda, misalnya: Web Developer | Desainer Grafis</p>
+        <p> Web Developer | Desainer Grafis</p>
     </header>
 
     <section id="about">
