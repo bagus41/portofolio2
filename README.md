@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -16,7 +16,7 @@
 <body>
     <header>
         <h1>Bagus Arief Ishakyudin</h1>
-        <p> Web Developer | Desainer Grafis</p>
+        <p>Deskripsi singkat tentang diri Anda, misalnya: Web Developer | Desainer Grafis</p>
     </header>
 
     <section id="about">
@@ -48,9 +48,19 @@
 
     <section id="contact">
         <h2>Kontak</h2>
-        <p>Email: <a href="#" target="_blank">bagufarif@gmail.com</a></p>
-        <p>Nomer Telfon: <a href="#" target="_blank">085774310811</a></p>
-        <p>Instagram: <a href="#" target="_blank">vipionn</a></p>
+       
+        
+<p>email: <a href="mailto:bagusfarif@gmail.com">bagusfarif@gmail.com</a>
+</p>
+      
+<p>Nomor Telfon: <a href="tel:+6285774310811">+62 857-7431-0811</a>
+</p>
+<p>Instagram: <a href="https://www.instagram.com/vipionn/" target="_blank" rel="noopener noreferrer">
+  @vipionn
+</a>
+<br>
+</p>
+
     </section>
 
     <footer>
